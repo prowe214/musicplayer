@@ -1,0 +1,36 @@
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+.container {
+  width: 65%;
+  margin: 0 auto;
+}
+
+header {
+  background: black;
+  padding: 3px;
+  color: white;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+h1 {
+  font-size: 20px;
+}
+
+i {
+  font-size: 20px;
+  margin: 10px;
+}
+
+hr {
+  margin: 0px;
+}
+
+.track {
+  font-size: 20px;
+  font-family: sans-serif;
+  font-weight: bold;
+  display: inline-block;
+}
